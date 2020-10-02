@@ -38,6 +38,7 @@
 
             <div class="item">
                 <img src="img_flower2.jpg" alt="Flower" width="460" height="345">
+                <p>Tested successfully</p>
             </div>
         </div>
 
